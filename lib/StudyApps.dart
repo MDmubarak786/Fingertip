@@ -10,7 +10,7 @@ class StudyApps extends StatelessWidget {
         appBar: AppBar(
           backgroundColor: Color(0xff1B5299),
           title: Text(
-            "AIO",
+            "Fingertip",
             style: TextStyle(fontSize: 30),
           ),
           centerTitle: true,
