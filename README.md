@@ -1,16 +1,6 @@
-# allinone
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![3](https://user-images.githubusercontent.com/44917891/105831214-75e82200-5fec-11eb-9f4a-de75844d4cf1.jpg)
+![4](https://user-images.githubusercontent.com/44917891/105831240-7d0f3000-5fec-11eb-8cb0-4ab9da03d32e.jpg)
+![5](https://user-images.githubusercontent.com/44917891/105831245-7ed8f380-5fec-11eb-9cde-99e1a9d8320e.jpg)
+![6](https://user-images.githubusercontent.com/44917891/105831255-80a2b700-5fec-11eb-9865-25dd408fa0fd.jpg)
+![1](https://user-images.githubusercontent.com/44917891/105831260-81d3e400-5fec-11eb-84ae-78d0ee18189d.jpg)
+![2](https://user-images.githubusercontent.com/44917891/105831288-87c9c500-5fec-11eb-91c9-b5657bbc6cd5.jpg)
