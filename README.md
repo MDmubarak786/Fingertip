@@ -7,6 +7,10 @@ this app helpfull to open the another app from this app .using this app we don't
 
 🟢 In this app , I added some Categories based apps will available in the folder.
 
+🟢 using this app you can feeel better.
+
+🟢 Last About page I am added some social network account links in that page.
+
 
 
 ##
