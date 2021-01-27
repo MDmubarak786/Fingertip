@@ -24,6 +24,9 @@ this app helpfull to open the another app from this app .using this app we don't
 
 <img src="https://user-images.githubusercontent.com/44917891/105831245-7ed8f380-5fec-11eb-9cde-99e1a9d8320e.jpg" width="400" height="750"> <img src="https://user-images.githubusercontent.com/44917891/105831255-80a2b700-5fec-11eb-9865-25dd408fa0fd.jpg" width="400" height="750"> 
 
+##
+ # 🔴 Kindly Don't forget to give a star and follow ...
+
 
 
 
