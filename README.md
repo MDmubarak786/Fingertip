@@ -2,8 +2,13 @@
 
 ```
 
-👋 ❤️This is Flutter application made it for Easily access your apps through one app .This is useful for large number of apps using in one mobile.
-this app helpfull to open the another app from this app .using this app we don't want to remember the where are the apps.
+👋 ❤️This is Flutter application made it for Easily access your apps through one app .
+
+🟢 This is useful for large number of apps using in one mobile.
+
+🟢 This app helpfull to open the another app from this app .
+
+🟢 Using this app we don't want to remember the where are the apps.
 
 🟢 Added Splash Screen
 
