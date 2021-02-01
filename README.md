@@ -1,4 +1,6 @@
-# 🦾 Fingertip 👀 
+<h1 align="center">🦾 Fingertip 👀</h1> 
+
+```
 
 👋 ❤️This is Flutter application made it for Easily access your apps through one app .This is useful for large number of apps using in one mobile.
 this app helpfull to open the another app from this app .using this app we don't want to remember the where are the apps.
@@ -11,7 +13,7 @@ this app helpfull to open the another app from this app .using this app we don't
 
 🟢 Last About page I am added some social network account links in that page.
 
-
+```
 
 ##
 
