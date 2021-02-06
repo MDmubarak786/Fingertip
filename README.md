@@ -16,7 +16,7 @@
 
 🟢 using this app you can feeel better.
 
-🟢 Last About page I am added some social network account links in that page
+🟢 Last About page I am added some social network account links in that page.
 
 ```
 
