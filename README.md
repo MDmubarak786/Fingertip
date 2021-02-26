@@ -6,7 +6,7 @@
 
 🟢 This is useful for large number of apps using in one mobile.
 
-🟢 This app helpfull to open the another app from this app .
+🟢 This app helpful to open the another app from this app .
 
 🟢 Using this app we don't want to remember the where are the apps.
 
@@ -14,7 +14,7 @@
 
 🟢 In this app , I added some Categories based apps will available in the folder.
 
-🟢 using this app you can feeel better.
+🟢 using this app you can feel better.
 
 🟢 Last About page I am added some social network account links in that page.
 
